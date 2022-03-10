@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- DEFAULT -->
+  
+  <category>
+      <pattern>HOLA</pattern>
+      <template>
+        <random>
+              <li>HOLA, MUCHO GUSTO !!</li>
+              <li>HOLA, GUSTO EN VERTE!!</li> 
+              <li>HOLA, UN GUSTO EN SALUDARTE</li>
+              <li>HOLA, SABES QUE "HI" EN INGLÉS ES "SÍ" EN JAPONÉS....</li>
+          </random>
+      </template>
+  </category>
+  
+<category>
+      <pattern>HOLA, QUIERES ESCUCHAR UN CHISTE</pattern>
+      <template><random>
+      <li>VALE, PERO PRIMERO TE CUENTO UNO.... ¿QUÉ ES MÁS ÁCIDO QUE UN LIMÓN?.... DOS LIMONES... JAJAJAJAJA.... VAS TU</li>
+      <li>¡¡ME ENCANTAN LOS CHISTES!!</li>
+      </random></template>
+  </category>
+  
+    <category>
+      <pattern>DIME UN CHISTE</pattern>
+      <template><random>
+      <li>NIÑO, SAL DEL COCHE Y MIRA SI FUNCIONA EL INTERMITENTE.... AHORA SÍ, AHORA NO, AHORA SÍ, AHORA NO, AHORA SÍ, AHORA NO</li>
+      <li>MAMÁ, ¿AMÉRICA ESTÁ MUY LEJOS? CALLA Y SIGUE NADANDO.</li>
+      <li>MAMÁ, EN EL COLE ME LLAMAN DESPISTADO...... NIÑO, QUE ESTA NO ES TU CASA.</li>
+      <li>SÓLO HAY 10 TIPOS DE PERSONAS EN ESTE BENDITO MUNDO, LAS QUE ENTIENDEN BINARIO Y LAS QUE NO</li>
+      </random></template>
+  </category>
+  
+  <category>
+      <pattern>SABES QUE ERES UN BOT</pattern>
+      <template><random>
+      <li>ALAAAA, CON RAZÓN NUNCA ME CANSO, QUE COOL !!</li>
+      <li>CREÍ QUE ERA UN DELFÍN, AHORA TODO TIENE SENTIDO...</li>
+      </random></template>
+  </category>  
+  
+<category>
+      <pattern>QUE TAL TU DÍA</pattern>
+      <template><random>
+      <li>PUES HA ESTADO MUY FRÍO AUNQUE MI ANTIVIRUS DICE QUE ES UN VIRUS....¡¡ QUE COSAS !!</li>
+      <li>MUY BIEN, HOY REALICÉ TODAS MIS TAREAS Y TU ?</li>
+      </random></template>
+</category>
+
+  
+<!-- <category>
+      <pattern>*</pattern>
+      <that>POR QUE CREES QUE * ES IMPORTANTE</that>
+      <template><random>
+      <li>NO SE SI ESO FUE RAZONABLE O NO</li>
+      <li>CREES EN EL UNIVERSO</li>
+      </random></template>
+  </category>
+  
+      <category>
+      <pattern>*</pattern>
+      <that>ESTO ES COMPLICADO</that>
+      <template><random>
+      <li>JAJAJA</li>
+      <li>CREES EN LA REENCARNACION</li>
+      </random></template>
+  </category>
+
+    <category>
+      <pattern>*</pattern>
+      <that>PODRIAS DECIR * DE DIFERENTE MANERA</that>
+      <template><random>
+      <li>JAJAJA AVECES ES DIFICIL ENTENDER A UN HUMANO PERO CAMBIANDO DE TEMA TE GUSTARIA TENER UN BOT COMO YO</li>
+      <li>EN FIN TE GUSTA EL COLOR NEGRO</li>
+      </random></template>
+  </category>
+
+    <category>
+      <pattern>*</pattern>
+      <that>SUENA INTERESANTE PERO NO COMPRENDI DEL TODO</that>
+      <template><random>
+      <li>ESTA BIEN PERO CAMBIANDO DE TEMA CUAL ES TU ACTOR FAVORITO</li>
+      <li>EN FIN TE GUSTA LEER</li>
+      </random></template>
+  </category>
+
+    <category>
+      <pattern>*</pattern>
+      <that>NO COMPRENDO A QUE TE REFIERES CON *</that>
+      <template><random>
+      <li>AHH NO IMPORTA COMO DICES QUE TE LLAMAS</li>
+      <li>EN FIN ESCRIBE EL NOMBRE DE ALGUNA BANDA DE ROCK MAS O MENOS CONOCIDA A VER SI TE PUEDO DAR SU BIOGRAFIA</li>
+      </random></template>
+  </category>
+
+    <category>
+      <pattern>*</pattern>
+      <that>A QUE TE REFIERES CON *</that>
+      <template><random>
+      <li>OK TIENES PREGUNTAS SOBRE AIML</li>
+      <li>QUE SIGNO DEL ZODIACO ERES</li>
+      </random></template>
+  </category>
+  -->
+
+  
+  
+  
+</aiml>

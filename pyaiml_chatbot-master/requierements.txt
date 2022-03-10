@@ -1,0 +1,12 @@
+aiml==0.8.6
+click==6.7
+Flask==0.12.2
+Flask-SocketIO==2.8.6
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+python-engineio==1.6.0
+python-socketio==1.7.5
+six==1.10.0
+tinydb==3.3.0
+Werkzeug==0.12.2
